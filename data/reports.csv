@@ -1,0 +1,2 @@
+athlete_id,date,duration_min,rpe,swim_meters,high_intensity_meters,gym_volume_kg,sleep_hours,sleep_quality_1_5,fatigue_1_10,stress_1_10,mood_1_10,quality_note,tv
+2,2025-08-20,120,6,4000,800,0,7.5,4,5,5,6,0.5,78.47999991890778
